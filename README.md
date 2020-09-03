@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/meghna-pai/">
   <img align="left" alt="Meghna's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+</br>
  :bulb: I’m currently exploring the field of **Machine learning** (also striving to curb laziness and build good projects).</br>
  💬 Talk to me about memes, food, traveling or anything that interests you.</br>
  :art: I enjoy painting, reading and cooking in my free time.
